@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9B15C2DA-4221-F436-62A7-6A830AB0DC4E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PuzzleAdventure",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
